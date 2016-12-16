@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/locale/Lang.java</file>
+            <file>file:/Users/denis/Web/railway/web/order.jsp</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/dao/interfaces/DaoStationInterface.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/commands/CommandDeleteUser.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/filters/UserPanelFilter.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/dao/interfaces/DaoTicketInterface.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/manager/Message.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/commands/CommandShowRoad.java</file>
+            <file>file:/Users/denis/Web/railway/web/error.jsp</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/commands/CommandUserTickets.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/commands/CommandOrder.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/dao/daofactory/DaoFactory.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/manager/Config.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/locale/LangService.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/service/TrainService.java</file>
+            <file>file:/Users/denis/Web/railway/web/showtraindetail.jsp</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/manager/messages.properties</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/manager/config.properties</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/commands/CommandPay.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/commands/CommandNotAdminUsers.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/commands/CommandDeleteTicket.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/locale/langRu.properties</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/dao/implementation/DaoTicket.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/dao/implementation/DaoStation.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/servlet/ControllerHelper.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/manager/ConnectionPool.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/entities/Station.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/commands/CommandMissing.java</file>
+            <file>file:/Users/denis/Web/railway/web/META-INF/context.xml</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/dao/implementation/DaoTrain.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/entities/Ticket.java</file>
+            <file>file:/Users/denis/Web/railway/src/java/epam/railway/locale/langEn.properties</file>
+            <file>file:/Users/denis/Web/railway/web/payticket.jsp</file>
+        </group>
+    </open-files>
+</project-private>
